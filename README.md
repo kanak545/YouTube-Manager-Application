@@ -6,32 +6,26 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with a 
 
 🚀 Features
 
-➕ Add new YouTube video details
+1. ➕ Add new YouTube video details
 
-📋 View all saved videos
+2. 📋 View all saved videos
 
-✏️ Update existing video information
+3. ✏️ Update existing video information
 
-❌ Delete video records
+4. ❌ Delete video records
 
-💾 Persistent storage using SQLite database
+5.  Persistent storage using SQLite database
 
-🧩 Clean and modular Python code structure
+6. 🧩 Clean and modular Python code structure
 
 🛠️ Tech Stack
 
-Python
+1. Python
 
-SQLite
+2. SQLite
 
-VS Code (Development Environment)
+3. VS Code (Development Environment)
 
-📂 Project Structure
-YouTube-Manager/
-│── main.py
-│── database.py
-│── youtube.db
-│── README.md
 ⚙️ How It Works
 
 The application allows users to:
@@ -50,27 +44,27 @@ All operations are performed via a simple command-line interface.
 
 🧠 Concepts Used
 
-Python Functions
+1. Python Functions
 
-SQLite Database Connection
+2. SQLite Database Connection
 
-SQL Queries
+3. SQL Queries
 
-CRUD Operations
+4. CRUD Operations
 
-Exception Handling
+5. Exception Handling
 
-Modular Programming
+6. Modular Programming
 
 🎯 Learning Outcomes
 
-Gained practical experience with database integration in Python
+1. Gained practical experience with database integration in Python
 
-Strengthened understanding of SQL queries
+2. Strengthened understanding of SQL queries
 
-Implemented real-world CRUD functionality
+3. Implemented real-world CRUD functionality
 
-Improved problem-solving and backend logic development
+4. Improved problem-solving and backend logic development
 
 
 
