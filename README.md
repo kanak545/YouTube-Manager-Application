@@ -4,7 +4,7 @@ A simple command-line based YouTube Manager Application built using Python and S
 
 This project demonstrates CRUD operations (Create, Read, Update, Delete) with a structured database approach.
 
-##🚀 Features
+## 🚀 Features
 
 1. ➕ Add new YouTube video details
 
@@ -18,7 +18,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with a 
 
 6. 🧩 Clean and modular Python code structure
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 1. Python
 
@@ -26,7 +26,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with a 
 
 3. VS Code (Development Environment)
 
-##⚙️ How It Works
+## ⚙️ How It Works
 
 The application allows users to:
 
@@ -42,7 +42,7 @@ The application allows users to:
 
 All operations are performed via a simple command-line interface.
 
-##🧠 Concepts Used
+## 🧠 Concepts Used
 
 1. Python Functions
 
@@ -56,7 +56,7 @@ All operations are performed via a simple command-line interface.
 
 6. Modular Programming
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 1. Gained practical experience with database integration in Python
 
