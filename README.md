@@ -1,4 +1,4 @@
-#🎬 YouTube Manager Application
+#🎬 YouTube Manager Application#
 
 A simple command-line based YouTube Manager Application built using Python and SQLite that allows users to manage YouTube video records efficiently.
 
